@@ -1,4 +1,4 @@
-cifaz.gitlab-zh
+cifaz.ansible-gitlab-zh
 =====================
 [![Build Status](https://travis-ci.org/cifaz/gitlab-zh.svg?branch=master)](https://travis-ci.org/cifaz/gitlab-zh)
 
