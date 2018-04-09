@@ -1,3 +1,7 @@
+cifaz.gitlab-zh
+=====================
+[![Build Status](https://travis-ci.org/cifaz/gitlab-zh.svg?branch=master)](https://travis-ci.org/cifaz/gitlab-zh)
+
 ## gitlab汉化
 
 ### 原始gitlab安装
@@ -9,7 +13,7 @@
 
 ### 汉化安装
 ``` 
-  hosts: local
+- hosts: local
   become: yes
   roles:
     - gitlab-zh
@@ -18,3 +22,12 @@
   
 ```
 
+License
+-------
+
+MIT
+
+Author Information
+------------------
+
+ccz <hanlin2531@163.com>

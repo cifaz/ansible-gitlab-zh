@@ -1,0 +1,10 @@
+sudo: true
+os:
+    - linux
+    - osx
+    - centos6
+    - centos7
+
+notifications:
+    webhooks: https://galaxy.ansible.com/api/v1/notifications/
+
