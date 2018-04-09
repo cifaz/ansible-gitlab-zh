@@ -1,6 +1,6 @@
 cifaz.gitlab-zh
 =====================
-[![Build Status](https://travis-ci.org/andrewrothstein/gitlab-zh.svg?branch=master)](https://travis-ci.org/andrewrothstein/gitlab-zh)
+[![Build Status](https://travis-ci.org/cifaz/gitlab-zh.svg?branch=master)](https://travis-ci.org/cifaz/gitlab-zh)
 
 ## gitlab汉化
 
