@@ -11,7 +11,7 @@ env:
 sudo: true
 os:
     - linux
-    - osx
+    - OS=centos_7
 
 script:
     - test/main.yml

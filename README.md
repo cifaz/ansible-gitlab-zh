@@ -9,7 +9,7 @@
 
 ### 汉化安装
 ``` 
-  hosts: local
+- hosts: local
   become: yes
   roles:
     - gitlab-zh
@@ -18,3 +18,7 @@
   
 ```
 
+Author Information
+------------------
+
+ccz <hanlin2531@163.com>
