@@ -2,6 +2,12 @@ cifaz.ansible-gitlab-zh
 =====================
 [![Build Status](https://travis-ci.org/cifaz/gitlab-zh.svg?branch=master)](https://travis-ci.org/cifaz/gitlab-zh)
 
+### 安装
+````
+ansible-galaxy install cifaz.gitlab-zh
+
+```
+
 ## gitlab汉化
 
 ### 原始gitlab安装
