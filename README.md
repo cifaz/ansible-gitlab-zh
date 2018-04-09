@@ -22,6 +22,11 @@ cifaz.gitlab-zh
   
 ```
 
+License
+-------
+
+MIT
+
 Author Information
 ------------------
 
