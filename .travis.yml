@@ -14,6 +14,9 @@ os:
     - centos_6
     - centos_7
 
+script:
+  - test/main.yml
+
 notifications:
     webhooks: https://galaxy.ansible.com/api/v1/notifications/
 
