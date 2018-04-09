@@ -5,4 +5,4 @@ git_download_dir: /app/down/git/gitlab/
 gitlab_version: 10.6.1
 
 # gitlab汉化路径, 这个一般不用改, 除非你自定义的安装
-gitlab_rails_dir: /opt/gitlab/embedded/service/gitlab-rails
+gitlab_rails_dir: /opt/gitlab/embedded/service/gitlab-rails/
