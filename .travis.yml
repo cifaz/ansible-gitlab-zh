@@ -1,9 +1,20 @@
+
+---
+language: python
+python: "2.7"
+
+env:
+  - ANSIBLE_VERSION=2.1.6
+  - ANSIBLE_VERSION=2.3.3
+  - ANSIBLE_VERSION=latest
+
 sudo: true
 os:
     - linux
-    - osx
-    - centos6
-    - centos7
+    - OS=centos_7
+
+script:
+    - test/main.yml
 
 notifications:
     webhooks: https://galaxy.ansible.com/api/v1/notifications/
