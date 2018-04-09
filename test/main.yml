@@ -1,0 +1,7 @@
+# test/main.yml
+
+---
+- hosts: local
+  become: yes
+  roles:
+    - gitlab-zh
