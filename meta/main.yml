@@ -1,6 +1,7 @@
 ---
 
-dependencies: []
+dependencies:
+  - geerlingguy.gitlab
 
 galaxy_info:
   author: ccz
