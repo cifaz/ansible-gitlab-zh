@@ -1,8 +1,6 @@
 ---
 
-dependencies:
-  - geerlingguy.gitlab
-
+dependencies: []
 galaxy_info:
   author: ccz
   description: gitlab汉化
