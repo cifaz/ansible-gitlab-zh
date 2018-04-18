@@ -7,7 +7,7 @@
   shell: "cd {{git_download_dir}} && git diff v{{gitlab_version}} v{{gitlab_version}}-zh > ../{{gitlab_version}}-zh.diff"
 
 - name: patch copy file to gitlab-ce
-  shell: "cd {{git_download_dir}} && patch -d {{gitlab_rails_dir}} -s -f -p0 < ../{{gitlab_version}}-zh.diff"
+  shell: "cd {{git_download_dir}} && patch -d {{gitlab_rails_dir}} -s -f -p1 < ../{{gitlab_version}}-zh.diff"
   ignore_errors: true
 
 - name: stop gitlab
